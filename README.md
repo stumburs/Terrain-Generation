@@ -9,4 +9,4 @@ A simple perlin noise terrain generator written in C++ using Raylib.
 
 This terrain generator uses:
 - [Perlin Noise Library](https://github.com/Reputeless/PerlinNoise)
-- [Raylib](https://github.com/raysan5/raylib)
+- [Raylib](https://github.com/raysan5/raylib) *(I used the [Nuget version in Visual Studio](https://www.nuget.org/packages/raylib/))*
